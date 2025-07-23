@@ -37,7 +37,7 @@ PassVault is a simple yet powerful **offline password manager** built using Pyth
 ## 🚀 Getting Started
 
 1. **Open the Project Notebook**
-   - [Click here to open in Colab](#) *(Insert your link here)*
+   - [Click here to open in Colab](https://colab.research.google.com/drive/1K7H-jvWTR8NsuAUcspwQbLhGVoIV5uT9?usp=sharing)
 
 2. **Install Dependencies**
    ```python
@@ -66,7 +66,8 @@ PassVault/
 ├── PassVault.ipynb          # Main Google Colab notebook
 ├── vault.json               # Encrypted password storage (generated)
 ├── key.key                  # Encryption key (export manually)
-├── README.md                # Project description and instructions
+├── LICENSE                  # License
+├── README.md               # Project description and instructions
 ```
 
 ---
